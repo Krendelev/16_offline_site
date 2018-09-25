@@ -1,7 +1,7 @@
 # New Site Template
 
-[TODO. There will be project description]
+Bootstrap template with assets collected for offline editing.
 
-# Project Goals
+## Project Goals
 
 The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
